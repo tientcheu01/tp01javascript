@@ -1,0 +1,75 @@
+.container {
+    width: 400px;
+    margin-top: 30px;
+}
+
+
+
+form {
+    margin-bottom: 20px;
+    margin-left: 40px;
+}
+
+input, textarea {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: black;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    border-radius: 10px;
+    margin-right: 300px;
+}
+
+
+.article {
+    border-radius: 10px;
+    margin-top: 40px;
+    margin-bottom: 10px;
+    background-color: white;
+    margin-left: 10px;
+
+
+
+}
+
+.article span {
+    font-weight: bold;
+    
+}
+body{
+    background-color: black;
+}
+#description{
+    height: 90px;
+
+}
+#title{
+    height: 30px;
+}
+.back{
+    width: 450px;
+    height: 300px;
+    background-color: white;
+    margin-top: -10px;
+    border-radius: 15px;
+}
+#debut{
+    margin-right: 350px;
+}
+#debut1{
+    margin-right: 350px;
+}
+#listedesarticles{
+display: flex;
+
+
+}
+#colorart{
+    color: white;
+    margin-top: 30px;
+}
